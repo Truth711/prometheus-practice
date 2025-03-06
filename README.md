@@ -1,4 +1,4 @@
-# Prometheus Practicum
+# Prometheus Practice
 
 ## Оглавление
 - [Описание](#описание)
